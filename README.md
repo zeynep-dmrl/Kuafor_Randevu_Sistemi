@@ -1,1 +1,1 @@
-# Kuaf-r_Randevu_Sistemi
+# Kuafor_Randevu_Sistemi
