@@ -2,7 +2,7 @@
 
 Siteye gitmek için tıklayınız.
 
-##Genel Özet
+## Genel Özet
 
 Php,Mysql,Html ve Css kullanılarak bir web tabanlı uygulama projesi.
 
