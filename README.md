@@ -18,6 +18,7 @@ Hesabınız varsa giriş yaparak sitedeki diğer sayfalara erişebilirsiniz. Hes
 #### 2) Girilen bilgileri listeleme,Girilen bilgileri silme, Girilen bilgileri düzenleme
 
 Anasayfada bilgilerinizi güncelleyebilir,randevularınızı iptal edebilir,randevu oluşturabilirsiniz. Hizmetler ve çalışanlar listelenmiştir görüntüleyebilirsiniz.
-![giris sayfası](https://github.com/zeynep-dmrl/Kuafor_Randevu_Sistemi/blob/main/ss/ss_3.PNG)
-![giris sayfası](https://github.com/zeynep-dmrl/Kuafor_Randevu_Sistemi/blob/main/ss/ss_4.PNG)
-![giris sayfası](https://github.com/zeynep-dmrl/Kuafor_Randevu_Sistemi/blob/main/ss/ss_5.PNG)
+![güncelleme sayfası](https://github.com/zeynep-dmrl/Kuafor_Randevu_Sistemi/blob/main/ss/ss_3.PNG)
+![silme sayfası](https://github.com/zeynep-dmrl/Kuafor_Randevu_Sistemi/blob/main/ss/ss_5.PNG)
+![kayıt girisi sayfası](https://github.com/zeynep-dmrl/Kuafor_Randevu_Sistemi/blob/main/ss/ss_4.PNG)
+
