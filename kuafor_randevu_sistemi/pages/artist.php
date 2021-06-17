@@ -17,7 +17,7 @@ if (isset($_SESSION["id"])) {
             body {
                 margin: 0;
             }
-
+            /* Navbar Menu*/
             .navbar {
                 list-style-type: none;
                 margin: 0;
@@ -56,7 +56,7 @@ if (isset($_SESSION["id"])) {
                 float: right;
                 color: crimson;
             }
-
+            /*Tables*/
             table {
                 font-family: Arial, Helvetica, sans-serif;
                 border-collapse: collapse;
@@ -129,13 +129,13 @@ if (isset($_SESSION["id"])) {
             <div class="divider">
                 <h2 style="font-style: oblique">MakeUp Artistleri</h2>
                 <?php
-                include "/xampp/htdocs/kuafor_randevu_sistemi/listMakeUpArtist.php";
+                include "/kuafor_randevu_sistemi/listMakeUpArtist.php";
                 ?>
             </div>
             <div class="divider">
                 <h2 style="font-style: oblique">Nail Artistleri</h2>
                 <?php
-                include "/xampp/htdocs/kuafor_randevu_sistemi/listNailArtist.php";
+                include "/kuafor_randevu_sistemi/listNailArtist.php";
                 ?>
             </div>
         </div>
