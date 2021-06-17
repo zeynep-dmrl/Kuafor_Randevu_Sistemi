@@ -1,6 +1,6 @@
 <?php
 session_start();
-include "/xampp/htdocs/kuafor_randevu_sistemi/config.php";
+include "/kuafor_randevu_sistemi/config.php";
 
 
 if (isset($_SESSION["id"])) {
@@ -15,7 +15,7 @@ if (isset($_SESSION["id"])) {
             body {
                 margin: 0;
             }
-
+            /*Navbar Menu*/
             .navbar {
                 list-style-type: none;
                 margin: 0;
@@ -54,7 +54,7 @@ if (isset($_SESSION["id"])) {
                 float: right;
                 color: crimson;
             }
-
+            
             .grid-container {
                 display: grid;
                 grid-template-columns: auto auto auto;
