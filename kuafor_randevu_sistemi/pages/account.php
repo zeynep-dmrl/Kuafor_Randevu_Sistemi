@@ -1,6 +1,6 @@
 <?php
 session_start();
-include "/xampp/htdocs/kuafor_randevu_sistemi/config.php";
+include "/kuafor_randevu_sistemi/config.php";
 
 if (isset($_SESSION["id"])) {
     $sorgu = $mysqli->query("SELECT firstName, lastName ,mail, phoneNo, customer_password FROM kuafor_randevu.customer where customer_id =" . $_SESSION["id"]);
@@ -23,7 +23,7 @@ if (isset($_SESSION["id"])) {
                 body {
                     margin: 0;
                 }
-
+                /*navbar menu  */ 
                 .navbar {
                     list-style-type: none;
                     margin: 0;
@@ -62,11 +62,11 @@ if (isset($_SESSION["id"])) {
                     float: right;
                     color: crimson;
                 }
-
+                /* ana bölüm*/
                 .main-container {
                     padding-top: 60px;
                 }
-
+            
                 .container {
                     border-radius: 5px;
                     background-color: #FAF0E6;
