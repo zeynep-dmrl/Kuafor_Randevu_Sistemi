@@ -1,6 +1,6 @@
 <?php
 session_start();
-include "/xampp/htdocs/kuafor_randevu_sistemi/config.php";
+include "/kuafor_randevu_sistemi/config.php";
 
 if (isset($_SESSION["id"]) && $_SESSION >0) {
 ?>
@@ -187,7 +187,7 @@ if (isset($_SESSION["id"]) && $_SESSION >0) {
                     <img class="mainimg" src="/kuafor_randevu_sistemi/images/bg_img.png" alt="stduio">
                     <ul>
                         <?php
-                        include "/xampp/htdocs/kuafor_randevu_sistemi/listProcessName.php";
+                        include "/htdocs/kuafor_randevu_sistemi/listProcessName.php";
                         ?>
                     </ul>
                 </div>
