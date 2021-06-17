@@ -1,6 +1,6 @@
 # Kuafor_Randevu_Sistemi
 
-Siteye gitmek için tıklayınız.
+Siteye gitmek için [tıklayınız](http://kuaforumrandevusistemi.ueuo.com/index.php).
 
 ## Genel Özet
 
